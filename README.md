@@ -1,7 +1,10 @@
 # Javascript-Challenge
 
-For this challenge a basic HTML page was created using  a UFO dataset that was provided in the form of an array
-of JavaScript objects, code was written  that appends a table to a web page and then adds new rows of data for each UFO sighting.
+Level 1: Automatic Table and Date Search 
 
-A  date form was used in the HTML document  JavaScript code was written that will listen for events and search through the `date/time` column 
+
+For this challenge a basic HTML webpage generated an automatic table and date search for UFO sightings.    Using  a UFO dataset that was provided,
+JavaScript code was written that appended a table to a web page and then added new rows of data for each UFO sighting.
+
+A  date form was utilized in the HTML document and used JavaScript code  that would listen for events and search through the `date/time` column 
 to find rows that match user input.
